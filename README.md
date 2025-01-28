@@ -78,8 +78,8 @@
 
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
-| 1      | [Webflow](https://webflow.com/) | Design and host a professional portfolio with no coding. |  
-| 2      | [Carbonmade](https://carbonmade.com/) | Simple tools to build beautiful portfolios. |  
+| 1      | [Webflow](https://webflow.com/) | Design and host a professional portfolio without coding. |  
+| 2      | [Framer](https://www.framer.com/) | Design and publish modern sites at any scale |  
 
 ---
 
