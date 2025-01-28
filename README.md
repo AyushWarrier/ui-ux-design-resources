@@ -7,7 +7,7 @@
 
 ## 📖 Index  
 
-1. [🖼️ Libraries](#libraries)  
+1. [🖼️ Libraries](#-libraries)  
 2. [🌐 Websites](#-websites)  
 3. [🔌 Plugins](#-plugins)  
 4. [📚 Courses](#-courses)  
