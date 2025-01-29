@@ -16,7 +16,8 @@
 7. [💼 Portfolio Builders](#-portfolio-builders)  
 8. [🎥 Design YouTube Channels](#-design-youtube-channels)  
 9. [💡 Creative Tools](#-creative-tools)  
-10. [📈 Career Resources](#-career-resources)  
+10. [📈 Career Resources](#-career-resources)
+11. [📊 UX Case Studies](#-ux-case-studies)
 
 ---
 
@@ -47,9 +48,9 @@
 
 ---
 
-## 📚 Courses  
+## 📚 Courses
 
-| Sr. No | [Name] | Description |  
+| Sr. No | [Name] | Description | 
 |--------|--------------|-------------|  
 | 1      | [DesignCode](https://designcode.io/) | Learn design and code through interactive tutorials. |  
 | 2      | [Interaction Design Foundation](https://www.interaction-design.org/) | Comprehensive courses on UX/UI design. |  
