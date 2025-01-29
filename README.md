@@ -23,6 +23,8 @@
 
 ## 🖼️ Libraries  
 
+Collections of reusable design components, UI kits, and assets. 
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [UI8](https://ui8.net/) | High-quality design assets, UI kits, and templates. |  
@@ -31,6 +33,8 @@
 ---
 
 ## 🌐 Websites  
+
+Platforms to discover UI/UX trends, patterns, and inspiration.
 
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
@@ -41,6 +45,8 @@
 
 ## 🔌 Plugins  
 
+Figma and design tool plugins that enhance your workflow. 
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [Icons8 Background Remover](https://www.figma.com/community/plugin/997643096679511216/icons8-background-remover) | Quickly remove image backgrounds with ease. |  
@@ -49,6 +55,8 @@
 ---
 
 ## 📚 Courses
+
+Online courses to learn UI/UX design, from beginner to advanced.
 
 | Sr. No | [Name] | Description | 
 |--------|--------------|-------------|  
@@ -59,6 +67,8 @@
 
 ## 📄 Articles & Blogs  
 
+Informative articles, blogs, and guides on design best practices.
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [Smashing Magazine](https://www.smashingmagazine.com/) | Articles on web design, coding, and UX. |  
@@ -67,6 +77,8 @@
 ---
 
 ## 🎨 Color & Typography Tools  
+
+Resources for choosing colors, fonts, and maintaining typography consistency.
 
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
@@ -77,6 +89,8 @@
 
 ## 💼 Portfolio Builders  
 
+Platforms to create and showcase your design portfolio.
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [Webflow](https://webflow.com/) | Design and host a professional portfolio without coding. |  
@@ -85,6 +99,8 @@
 ---
 
 ## 🎥 Design YouTube Channels  
+
+YouTube channels covering UI/UX tips, tutorials, and industry insights.
 
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
@@ -95,6 +111,8 @@
 
 ## 💡 Creative Tools  
 
+Design tools that boost creativity and efficiency.
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [Miro](https://miro.com/) | Online collaborative whiteboard for brainstorming and design. |  
@@ -104,10 +122,20 @@
 
 ## 📈 Career Resources  
 
+Guides and platforms for landing UI/UX design jobs and freelance gigs.
+
 | Sr. No | [Name] | Description |  
 |--------|--------------|-------------|  
 | 1      | [Dribbble Jobs](https://dribbble.com/jobs) | Job postings for designers on Dribbble. |  
 | 2      | [AngelList](https://angel.co/) | Startup jobs for designers, developers, and marketers. |  
+
+## 📊 UX Case Studies  
+
+A collection of real-world UX case studies to help you learn from successful design projects and improve your problem-solving skills.
+
+| Sr. No | [Case Study Name](case-study-link) | Brief description of what the case study covers. |
+|--------|------------------------------------|--------------------------------------------------|
+| 1      | [Example Case Study](https://example.com) | A deep dive into how a UX problem was solved.   |
 
 ## How to Contribute
 
