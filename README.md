@@ -135,7 +135,7 @@ A collection of real-world UX case studies to help you learn from successful des
 
 | Sr. No | Case Study Name | Brief description of what the case study covers. |
 |--------|------------------------------------|--------------------------------------------------|
-| 1      | [Whiskers - A UX Case Study](https://shorturl.at/pL5oi) | A deep dive into how a UX problem was solved.   |
+| 1      | [Whiskers - A UX Case Study](https://shorturl.at/pL5oi) | A Mobile App Case Study of a platform that has all pet related services |
 
 ## How to Contribute
 
