@@ -61,7 +61,8 @@ Online courses to learn UI/UX design, from beginner to advanced.
 | Sr. No | Name | Description | 
 |--------|--------------|-------------|  
 | 1      | [DesignCode](https://designcode.io/) | Learn design and code through interactive tutorials. |  
-| 2      | [Interaction Design Foundation](https://www.interaction-design.org/) | Comprehensive courses on UX/UI design. |  
+| 2      | [Interaction Design Foundation](https://www.interaction-design.org/) | Comprehensive courses on UX/UI design. |
+| 3      | [Google UX Design Professional Certificate](https://shorturl.at/26Ysp) | Most Popular UX Design Certificate amongst entry-level UX Designers. |  
 
 ---
 
