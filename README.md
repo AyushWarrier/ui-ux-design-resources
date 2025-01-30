@@ -87,7 +87,8 @@ Resources for choosing colors, fonts, and maintaining typography consistency.
 | Sr. No | Name | Description |  
 |--------|--------------|-------------|  
 | 1      | [Coolors](https://coolors.co/) | Generate, explore, and save color palettes. |  
-| 2      | [Google Fonts](https://fonts.google.com/) | A library of free licensed fonts. |  
+| 2      | [Color Hunt](https://colorhunt.co/) | Explore popular/trending color palettes for your designs |  
+| 3      | [Google Fonts](https://fonts.google.com/) | A library of free licensed fonts. |  
 
 ---
 
