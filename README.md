@@ -8,7 +8,7 @@
 ## 📖 Index  
 
 1. [🖼️ Libraries](#-libraries)  
-2. [🌐 Websites](#-websites)  
+2. [🌐 Websites for Inspirations](#-websites)  
 3. [🔌 Plugins](#-plugins)  
 4. [📚 Courses](#-courses)  
 5. [📄 Articles & Blogs](#-articles--blogs)  
@@ -28,11 +28,12 @@ Collections of reusable design components, UI kits, and assets.
 | Sr. No | Name | Description |  
 |--------|--------------|-------------|  
 | 1      | [UI8](https://ui8.net/) | High-quality design assets, UI kits, and templates. |  
-| 2      | [Icons8](https://icons8.com/) | A library of icons, illustrations, and photos. |  
+| 2      | [Icons8](https://icons8.com/) | A library of icons, illustrations, and photos. | 
+| 3      | [Open Doodles](https://opendoodles.com/) | A Free Set of Open-Source Illustrations! |  
 
 ---
 
-## 🌐 Websites  
+## 🌐 Websites for Inspiration
 
 Platforms to discover UI/UX trends, patterns, and inspiration.
 
