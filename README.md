@@ -101,6 +101,7 @@ Platforms to create and showcase your design portfolio.
 |--------|--------------|-------------|  
 | 1      | [Webflow](https://webflow.com/) | Design and host a professional portfolio without coding. |  
 | 2      | [Framer](https://www.framer.com/) | Design and publish modern sites at any scale |  
+| 3      | [Notion](https://www.notion.com/) | Build a simple, customizable portfolio using Notion’s flexible pages.  |  
 
 ---
 
