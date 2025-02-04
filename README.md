@@ -128,6 +128,7 @@ YouTube channels covering UI/UX tips, tutorials, and industry insights.
 | 1      | [The Futur](https://www.youtube.com/user/TheSkoolRocks) | Business and design advice for creatives. |  
 | 2      | [CharliMarieTV](https://www.youtube.com/c/CharliMarieTV) | Design tutorials and advice for aspiring designers. | 
 | 3      | [Ansh Mehra](https://www.youtube.com/@CuttingEdgeSchool) | Learn about latest Tech & Design in the most practical way ever. |  
+| 4      | [DesignwithArash](https://www.youtube.com/@DesignWithArash) | Teach people how to design great user interfaces and experiences. |  
 
 ---
 
