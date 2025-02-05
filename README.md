@@ -62,13 +62,18 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 
 Figma and design tool plugins that enhance your workflow. 
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Icons8 Background Remover](https://www.figma.com/community/plugin/997643096679511216/icons8-background-remover) | Quickly remove image backgrounds with ease. |  
-| 2      | [Iconify](https://www.figma.com/community/plugin/735098390272716381/iconify) | Access thousands of icons directly in Figma. |  
-| 3      | [Bento Grid Maker](https://www.figma.com/community/plugin/1361301034817165317/bento-grid-maker)         | Generate bento grids in a few clicks.    |
-| 4      | [Doodle Arrows](https://www.figma.com/community/plugin/1348999647853598301/doodle-arrows)            | Add hand-drawn arrows to your prototypes.      |
-| 5      | [Noise & Texture](https://www.figma.com/community/plugin/1138854718618193875/noise-texture)          | Add customizable noise and textures to designs.|
+| Sr. No | Name                                                                                                             | Description                                        |  
+|--------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|  
+| 1      | [Icons8 Background Remover](https://www.figma.com/community/plugin/997643096679511216/icons8-background-remover) | Quickly remove image backgrounds with ease.        |  
+| 2      | [Iconify](https://www.figma.com/community/plugin/735098390272716381/iconify)                                     | Access thousands of icons directly in Figma.       |  
+| 3      | [Bento Grid Maker](https://www.figma.com/community/plugin/1361301034817165317/bento-grid-maker)                  | Generate bento grids in a few clicks.              |
+| 4      | [Doodle Arrows](https://www.figma.com/community/plugin/1348999647853598301/doodle-arrows)                        | Add hand-drawn arrows to your prototypes.          |
+| 5      | [Noise & Texture](https://www.figma.com/community/plugin/1138854718618193875/noise-texture)                      | Add customizable noise and textures to designs.    |
+| 6      | [Wireframe](https://www.figma.com/community/plugin/742764242781786818/wireframe)                                 | Speed up wireframing with prebuilt UI elements     |
+| 7      | [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/qr-code-generator)                 | Helps you to quickly create a Vector QR code.      |
+| 8      | [Lorem Ipsum](https://www.figma.com/community/plugin/736000994034548392/lorem-ipsum)                             | Generate 'Lorem ipsum' to fill your text layers.   |
+| 9      | [Figmotion](https://www.figma.com/community/plugin/733025261168520714/figmotion)                                 | Brining motion to your Figma designs.              |
+| 10     | [Beautiful Shadows](https://www.figma.com/community/plugin/1068595505353552645/beautiful-shadows)                | Create smooth and beautiful shadows.               |
 
 ---
 
