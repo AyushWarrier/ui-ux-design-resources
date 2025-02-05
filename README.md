@@ -1,6 +1,6 @@
 # UI/UX Design Resources
 
-*A comprehensive collection of the best resources for UI/UX Designers—libraries, websites, plugins, courses, and much more. Your ultimate hub for leveling up your design workflow and creativity.*
+*A comprehensive collection of the best UI/UX Designers resources—libraries, websites, plugins, courses, and much more. Your ultimate hub for leveling up your design workflow and creativity.*
 ![Design Resources Thumbnail](/thumbnail.png)
 
 ---
@@ -25,11 +25,11 @@
 
 Collections of reusable design components, UI kits, and assets. 
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [UI8](https://ui8.net/) | High-quality design assets, UI kits, and templates. |  
-| 2      | [Icons8](https://icons8.com/) | A library of icons, illustrations, and photos. | 
-| 3      | [Open Doodles](https://opendoodles.com/) | A Free Set of Open-Source Illustrations! |  
+| Sr. No | Name                                                 | Description                                                 |  
+|--------|------------------------------------------------------|-------------------------------------------------------------|  
+| 1      | [UI8](https://ui8.net/)                              | High-quality design assets, UI kits, and templates.         |  
+| 2      | [Icons8](https://icons8.com/)                        | A library of icons, illustrations, and photos.              | 
+| 3      | [Open Doodles](https://opendoodles.com/)             | A Free Set of Open-Source Illustrations!                    |  
 
 ---
 
@@ -81,11 +81,11 @@ Figma and design tool plugins that enhance your workflow.
 
 Online courses to learn UI/UX design, from beginner to advanced.
 
-| Sr. No | Name | Description | 
-|--------|--------------|-------------|  
-| 1      | [DesignCode](https://designcode.io/) | Learn design and code through interactive tutorials. |  
-| 2      | [Interaction Design Foundation](https://www.interaction-design.org/) | Comprehensive courses on UX/UI design. |
-| 3      | [Google UX Design Professional Certificate](https://shorturl.at/26Ysp) | Most Popular UX Design Certificate amongst entry-level UX Designers. |  
+| Sr. No | Name                                                                                 | Description                                                                 | 
+|--------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
+| 1      | [DesignCode](https://designcode.io/)                                                 | Learn design and code through interactive tutorials.                        |  
+| 2      | [Interaction Design Foundation](https://www.interaction-design.org/)                 | Comprehensive courses on UX/UI design.                                      |
+| 3      | [Google UX Design Professional Certificate](https://shorturl.at/26Ysp)               | Most Popular UX Design Certificate amongst entry-level UX Designers.        |  
 
 ---
 
@@ -93,10 +93,10 @@ Online courses to learn UI/UX design, from beginner to advanced.
 
 Informative articles, blogs, and guides on design best practices.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Smashing Magazine](https://www.smashingmagazine.com/) | Articles on web design, coding, and UX. |  
-| 2      | [UX Collective](https://uxdesign.cc/) | Stories, insights, and inspiration about UX. |  
+| Sr. No | Name                                                                         | Description                                             |  
+|--------|------------------------------------------------------------------------------|---------------------------------------------------------|  
+| 1      | [Smashing Magazine](https://www.smashingmagazine.com/)                       | Articles on web design, coding, and UX.                 |  
+| 2      | [UX Collective](https://uxdesign.cc/)                                        | Stories, insights, and inspiration about UX.            |  
 
 ---
 
@@ -104,11 +104,11 @@ Informative articles, blogs, and guides on design best practices.
 
 Resources for choosing colors, fonts, and maintaining typography consistency.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Coolors](https://coolors.co/) | Generate, explore, and save color palettes. |  
-| 2      | [Color Hunt](https://colorhunt.co/) | Explore popular/trending color palettes for your designs |  
-| 3      | [Google Fonts](https://fonts.google.com/) | A library of free licensed fonts. |  
+| Sr. No | Name                                                 | Description                                              |  
+|--------|------------------------------------------------------|----------------------------------------------------------|  
+| 1      | [Coolors](https://coolors.co/)                       | Generate, explore, and save color palettes.              |  
+| 2      | [Color Hunt](https://colorhunt.co/)                  | Explore popular/trending color palettes for your designs |  
+| 3      | [Google Fonts](https://fonts.google.com/)            | A library of free licensed fonts.                        |  
 
 ---
 
@@ -116,11 +116,11 @@ Resources for choosing colors, fonts, and maintaining typography consistency.
 
 Platforms to create and showcase your design portfolio.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Webflow](https://webflow.com/) | Design and host a professional portfolio without coding. |  
-| 2      | [Framer](https://www.framer.com/) | Design and publish modern sites at any scale |  
-| 3      | [Notion](https://www.notion.com/) | Build a simple, customizable portfolio using Notion’s flexible pages.  |  
+| Sr. No | Name                                         | Description                                                                 |  
+|--------|----------------------------------------------|-----------------------------------------------------------------------------|  
+| 1      | [Webflow](https://webflow.com/)              | Design and host a professional portfolio without coding.                    |  
+| 2      | [Framer](https://www.framer.com/)            | Design and publish modern sites at any scale                                |  
+| 3      | [Notion](https://www.notion.com/)            | Build a simple, customizable portfolio using Notion's flexible pages.       |  
 
 ---
 
@@ -128,12 +128,12 @@ Platforms to create and showcase your design portfolio.
 
 YouTube channels covering UI/UX tips, tutorials, and industry insights.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [The Futur](https://www.youtube.com/user/TheSkoolRocks) | Business and design advice for creatives. |  
-| 2      | [CharliMarieTV](https://www.youtube.com/c/CharliMarieTV) | Design tutorials and advice for aspiring designers. | 
-| 3      | [Ansh Mehra](https://www.youtube.com/@CuttingEdgeSchool) | Learn about latest Tech & Design in the most practical way ever. |  
-| 4      | [DesignwithArash](https://www.youtube.com/@DesignWithArash) | Teach people how to design great user interfaces and experiences. |  
+| Sr. No | Name                                                                     | Description                                                         |  
+|--------|--------------------------------------------------------------------------|---------------------------------------------------------------------|  
+| 1      | [The Futur](https://www.youtube.com/user/TheSkoolRocks)                  | Business and design advice for creatives.                           |  
+| 2      | [CharliMarieTV](https://www.youtube.com/c/CharliMarieTV)                 | Design tutorials and advice for aspiring designers.                 | 
+| 3      | [Ansh Mehra](https://www.youtube.com/@CuttingEdgeSchool)                 | Learn about latest Tech & Design in the most practical way ever.    |  
+| 4      | [DesignwithArash](https://www.youtube.com/@DesignWithArash)              | Teach people how to design great user interfaces and experiences.   |  
 
 ---
 
@@ -141,10 +141,10 @@ YouTube channels covering UI/UX tips, tutorials, and industry insights.
 
 Design tools that boost creativity and efficiency.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Miro](https://miro.com/) | Online collaborative whiteboard for brainstorming and design. |  
-| 2      | [Whimsical](https://whimsical.com/) | Mind maps, flowcharts, and wireframes in one tool. |  
+| Sr. No | Name                                      | Description                                                         |  
+|--------|-------------------------------------------|---------------------------------------------------------------------|  
+| 1      | [Miro](https://miro.com/)                 | Online collaborative whiteboard for brainstorming and design.       |  
+| 2      | [Whimsical](https://whimsical.com/)       | Mind maps, flowcharts, and wireframes in one tool.                  |  
 
 ---
 
@@ -152,23 +152,23 @@ Design tools that boost creativity and efficiency.
 
 Guides and platforms for landing UI/UX design jobs and freelance gigs.
 
-| Sr. No | Name | Description |  
-|--------|--------------|-------------|  
-| 1      | [Dribbble Jobs](https://dribbble.com/jobs) | Job postings for designers on Dribbble. |  
-| 2      | [AngelList](https://angel.co/) | Startup jobs for designers, developers, and marketers. |  
+| Sr. No | Name                                                      | Description                                                     |  
+|--------|-----------------------------------------------------------|-----------------------------------------------------------------|  
+| 1      | [Dribbble Jobs](https://dribbble.com/jobs)                | Job postings for designers on Dribbble.                         |  
+| 2      | [AngelList](https://angel.co/)                            | Startup jobs for designers, developers, and marketers.          |  
 
 ## 📊 UX Case Studies  
 
 A collection of real-world UX case studies to help you learn from successful design projects and improve your problem-solving skills.
 
-| Sr. No | Case Study Name | Brief description of what the case study covers. |
-|--------|------------------------------------|--------------------------------------------------|
-| 1      | [Whiskers - A UX Case Study](https://shorturl.at/pL5oi) | A Mobile App Case Study of a platform that has all pet-related services |
-| 2      | [Aklety - UI/UX Case Study](https://shorturl.at/5meO6) | A Food Delivery Mobile App Case Study |
+| Sr. No | Case Study Name                                                      | Description                                                                    |  
+|--------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 1      | [Whiskers - A UX Case Study](https://shorturl.at/pL5oi)              | A Mobile App Case Study of a platform that has all pet-related services        |
+| 2      | [Aklety - UI/UX Case Study](https://shorturl.at/5meO6)               | A Food Delivery Mobile App Case Study                                          |
 
 ## How to Contribute
 
-I'm building this repository to help designers discover the best UI/UX design resources—libraries, websites, plugins, courses, and much more. If you know a resource that should be featured here, I'd love your help! Here's how you can contribute:
+I'm building this repository to help designers discover the best UI/UX design resources—libraries, websites, plugins, courses, and more. If you know a resource that should be featured here, I'd love your help! Here's how you can contribute:
 1. **Fork this Repository**: Click the "Fork" button in the top-right corner of the page to create your own copy. 
 2. **Add Your Resource**:  
    - Add the resource to the relevant table (Libraries, Websites, Plugins, etc.) using this format:
