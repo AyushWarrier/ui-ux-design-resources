@@ -46,7 +46,7 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 | 3      | [Awwwards](https://www.awwwards.com/)                                        | Features the best and most innovative websites globally, often awarded for creativity.                                  |
 | 4      | [Behance](https://www.behance.net/)                                          | Offers curated projects, including web design inspirations from top designers and agencies.                             |
 | 5      | [Land Book](https://land-book.com/)                                          | Inspiration specifically for landing page designs across various industries.                                            |
-| 6      | [Siteinspire](https://www.siteinspire.com/)                                  | Showcase of the best web design inspirations, featuring clean, modern, and creative websites across various categories. |
+| 6      | [Siteinspire](https://www.siteinspire.com/)                                  | Showcase the best design inspirations, featuring clean, modern, and creative websites across various categories.        |
 | 7      | [Minimal Gallery](https://minimal.gallery/)                                  | Focused on minimalist and clean website designs for inspiration.                                                        |
 | 8      | [Commerce Cream](https://www.commercecream.com/)                             | Highlights beautifully designed e-commerce websites, showcasing product displays.                                       |
 | 9      | [One Page Love](https://onepagelove.com/)                                    | Offers inspiration for single-page website designs across multiple themes.                                              |
@@ -57,6 +57,7 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 | 14     | [Nicepage](https://nicepage.com/)                                            | Features a wide range of website templates categorized by industry.                                                     |
 | 15     | [Frontend Mentor](https://www.frontendmentor.io/)                            | Provides real-world web design challenges and inspirations for developers.                                              |
 | 16     | [App Motion](https://appmotion.design/)                                      | Get inspired by top-notch mobile app UI animations and interactions for your next project.                              |
+| 17     | [SeeSaw](https://www.seesaw.website/)                                        | A digital product design studio that partners with start-ups and brands to create new futures.                          |
 
 ---
 
