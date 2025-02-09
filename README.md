@@ -25,13 +25,14 @@
 
 Collections of reusable design components, UI kits, and assets. 
 
-| Sr. No | Name                                                 | Description                                                                          |  
-|--------|------------------------------------------------------|--------------------------------------------------------------------------------------|  
-| 1      | [UI8](https://ui8.net/)                              | High-quality design assets, UI kits, and templates.                                  |  
-| 2      | [Icons8](https://icons8.com/)                        | A library of icons, illustrations, and photos.                                       | 
-| 3      | [Open Doodles](https://opendoodles.com/)             | A Free Set of Open-Source Illustrations!                                             |  
-| 4      | [unDraw](https://undraw.co/)                         | Open-source illustrations for any idea you can imagine and create.                   |
-| 5      | [Storyset](https://storyset.com/)                    | Awesome free customizable illustrations for your next project                        |  
+| Sr. No | Name                                                 | Description                                                                                                                                |  
+|--------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|  
+| 1      | [UI8](https://ui8.net/)                              | High-quality design assets, UI kits, and templates.                                                                                        |  
+| 2      | [Icons8](https://icons8.com/)                        | A library of icons, illustrations, and photos.                                                                                             | 
+| 3      | [Open Doodles](https://opendoodles.com/)             | A Free Set of Open-Source Illustrations!                                                                                                   |  
+| 4      | [unDraw](https://undraw.co/)                         | Open-source illustrations for any idea you can imagine and create.                                                                         |
+| 5      | [Storyset](https://storyset.com/)                    | Awesome free customizable illustrations for your next project                                                                              |  
+| 6      | [Illustrations](https://illlustrations.co/)          | You can download all illustrations completely free and use these to design awesome - landing pages, mobile apps, or presentations.         |  
 
 ---
 
