@@ -7,15 +7,15 @@
 
 ## 📖 Index  
 
-1. [🖼️ Libraries](#-libraries)  
-2. [🌐 Websites for Inspirations](#-websites)  
-3. [🔌 Plugins](#-plugins)  
-4. [📚 Courses](#-courses)  
-5. [📄 Articles & Blogs](#-articles--blogs)  
-6. [🎨 Color & Typography Tools](#-color--typography-tools)  
-7. [💼 Portfolio Builders](#-portfolio-builders)  
-8. [🎥 Design YouTube Channels](#-design-youtube-channels)  
-9. [💡 Creative Tools](#-creative-tools)  
+1.  [🖼️ Libraries](#-libraries)  
+2.  [🌐 Websites for Inspirations](#-websites)  
+3.  [🔌 Plugins](#-plugins)  
+4.  [📚 Courses](#-courses)  
+5.  [📄 Articles & Blogs](#-articles--blogs)  
+6.  [🎨 Color & Typography Tools](#-color--typography-tools)  
+7.  [💼 Portfolio Builders](#-portfolio-builders)  
+8.  [🎥 Design YouTube Channels](#-design-youtube-channels)  
+9.  [💡 Creative Tools](#-creative-tools)  
 10. [📈 Career Resources](#-career-resources)
 11. [📊 UX Case Studies](#-ux-case-studies)
 
@@ -85,6 +85,7 @@ Figma and design tool plugins that enhance your workflow.
 | 11     | [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi)                                                                                         | Transform your Figma designs with free Lummi images. |
 | 12     | [Mockup Plugin](https://www.figma.com/community/plugin/817043359134136295/mockup-plugin-devices-mockups-print-mockups-ai-mockups)                                 | Simple and Easy Mockup for your Figma Designs.       |
 | 13     | [Dark Mode Magic](https://www.figma.com/community/plugin/834062945643616879/dark-mode-magic)                                                                      | Transform your design into Dark mode automatically.  |
+| 14     | [SPELLL](https://www.figma.com/community/plugin/754026612866636376/spelll-spelling-grammar-checking-for-figma-figjam)                                             | Spell Checking for Figma & FigJam.                   |
 
 ---
 
