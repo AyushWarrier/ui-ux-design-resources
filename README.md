@@ -169,6 +169,8 @@ Guides and platforms for landing UI/UX design jobs and freelance gigs.
 | 1      | [Dribbble Jobs](https://dribbble.com/jobs)                | Job postings for designers on Dribbble.                         |  
 | 2      | [AngelList](https://angel.co/)                            | Startup jobs for designers, developers, and marketers.          |  
 
+---
+
 ## 📊 UX Case Studies  
 
 A collection of real-world UX case studies to help you learn from successful design projects and improve your problem-solving skills.
@@ -177,6 +179,8 @@ A collection of real-world UX case studies to help you learn from successful des
 |--------|----------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 1      | [Whiskers - A UX Case Study](https://shorturl.at/pL5oi)              | A Mobile App Case Study of a platform that has all pet-related services        |
 | 2      | [Aklety - UI/UX Case Study](https://shorturl.at/5meO6)               | A Food Delivery Mobile App Case Study                                          |
+
+---
 
 ## How to Contribute
 
