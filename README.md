@@ -83,7 +83,7 @@ Figma and design tool plugins that enhance your workflow.
 | 9      | [Figmotion](https://www.figma.com/community/plugin/733025261168520714/figmotion)                                                                                  | Brining motion to your Figma designs.                |
 | 10     | [Beautiful Shadows](https://www.figma.com/community/plugin/1068595505353552645/beautiful-shadows)                                                                 | Create smooth and beautiful shadows.                 |
 | 11     | [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi)                                                                                         | Transform your Figma designs with free Lummi images. |
-| 12     | [Mockup Plugin](https://www.figma.com/community/plugin/817043359134136295/mockup-plugin-devices-mockups-print-mockups-ai-mockups)                                 | Brining motion to your Figma designs.                |
+| 12     | [Mockup Plugin](https://www.figma.com/community/plugin/817043359134136295/mockup-plugin-devices-mockups-print-mockups-ai-mockups)                                 | Simple and Easy Mockup for your Figma Designs.       |
 
 ---
 
