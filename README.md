@@ -106,10 +106,11 @@ Online courses to learn UI/UX design, from beginner to advanced.
 
 Informative articles, blogs, and guides on design best practices.
 
-| Sr. No | Name                                                                         | Description                                             |  
-|--------|------------------------------------------------------------------------------|---------------------------------------------------------|  
-| 1      | [Smashing Magazine](https://www.smashingmagazine.com/)                       | Articles on web design, coding, and UX.                 |  
-| 2      | [UX Collective](https://uxdesign.cc/)                                        | Stories, insights, and inspiration about UX.            |  
+| Sr. No | Name                                                                         | Description                                                                   |  
+|--------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------|  
+| 1      | [Smashing Magazine](https://www.smashingmagazine.com/)                       | Articles on web design, coding, and UX.                                       |  
+| 2      | [UX Collective](https://uxdesign.cc/)                                        | Stories, insights, and inspiration about UX.                                  |  
+| 3      | [UXness](https://www.uxness.in/)                                             | Discover UX, visual, and product design insights and inspiration with UXness. |  
 
 ---
 
