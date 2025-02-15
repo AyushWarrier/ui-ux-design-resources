@@ -175,6 +175,7 @@ Guides and platforms for landing UI/UX design jobs and freelance gigs.
 | 1      | [Dribbble Jobs](https://dribbble.com/jobs)                | Job postings for designers on Dribbble.                         |  
 | 2      | [AngelList](https://angel.co/)                            | Startup jobs for designers, developers, and marketers.          |  
 | 3      | [Contra](https://contra.com/)                             | Best website for freelancers to reach clients.                  |  
+| 4      | [Flowremote](https://www.flowremote.io/)                  | Access to full-time, part-time, and freelance jobs              |  
 
 ---
 
