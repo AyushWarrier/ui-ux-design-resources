@@ -1,6 +1,6 @@
 # UI/UX Design Resources
 
-*A comprehensive collection of the best UI/UX Designers resources—libraries, websites, plugins, courses, and much more. Your ultimate hub for leveling up your design workflow and creativity.*
+*A comprehensive collection of the best UI/UX Designers' resources—libraries, websites, plugins, courses, and much more. Your ultimate hub for leveling up your design workflow and creativity.*
 ![Design Resources Thumbnail](/thumbnail.png)
 
 ---
