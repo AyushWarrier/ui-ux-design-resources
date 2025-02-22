@@ -193,7 +193,7 @@ A collection of real-world UX case studies to help you learn from successful des
 
 ## How to Contribute
 
-I'm building this repository to help designers discover the best UI/UX design resources—libraries, websites, plugins, courses, and more. If you know a resource that should be featured here, I'd love your help! Here's how you can contribute:
+I'm building this repository to help designers discover the best UI/UX design resources—libraries, websites, plugins, courses, and more. If you know a resource that should be featured here, I woould love your help! Here's how you can contribute:
 1. **Fork this Repository**: Click the "Fork" button in the top-right corner of the page to create your own copy. 
 2. **Add Your Resource**:  
    - Add the resource to the relevant table (Libraries, Websites, Plugins, etc.) using this format:
