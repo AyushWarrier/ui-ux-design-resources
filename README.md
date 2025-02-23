@@ -64,6 +64,7 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 | 16     | [App Motion](https://appmotion.design/)                                      | Get inspired by top-notch mobile app UI animations and interactions for your next project.                               |
 | 17     | [SeeSaw](https://www.seesaw.website/)                                        | A digital product design studio that partners with start-ups and brands to create new futures.                           |
 | 18     | [Landingfolio](https://www.landingfolio.com/)                                | The Best Landing Page Design Inspiration, Templates and More.                                                            |
+| 19     | [Mobbin](https://mobbin.com/)                                                | Discover real-world design inspiration.                                                                                  |
 
 ---
 
