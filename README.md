@@ -66,6 +66,7 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 | 18     | [Landingfolio](https://www.landingfolio.com/)                                | The Best Landing Page Design Inspiration, Templates and More.                                                            |
 | 19     | [Mobbin](https://mobbin.com/)                                                | Discover real-world design inspiration.                                                                                  |
 | 20     | [Supahero](https://www.supahero.io/)                                         | The best collection of website hero sections.                                                                            |
+| 21     | [Pageflows](https://pageflows.com/)                                          | Explore real-world user flows and design patterns from leading apps and websites.                                        |
 
 ---
 
