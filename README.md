@@ -25,18 +25,18 @@
 
 Collections of reusable design components, UI kits, and assets. 
 
-| Sr. No | Name                                                                        | Description                                                                                                                                |  
-|--------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|  
-| 1      | [UI8](https://ui8.net/)                                                     | High-quality design assets, UI kits, and templates.                                                                                        |  
-| 2      | [Icons8](https://icons8.com/)                                               | A library of icons, illustrations, and photos.                                                                                             | 
-| 3      | [Open Doodles](https://opendoodles.com/)                                    | A Free Set of Open-Source Illustrations!                                                                                                   |  
-| 4      | [unDraw](https://undraw.co/)                                                | Open-source illustrations for any idea you can imagine and create.                                                                         |
-| 5      | [Storyset](https://storyset.com/)                                           | Awesome free customizable illustrations for your next project.                                                                             |  
-| 6      | [Illustrations](https://illlustrations.co/)                                 | You can download all illustrations completely free and use these to design awesome - landing pages, mobile apps, or presentations.         |  
-| 7      | [Absurd Illustrations](https://absurd.design/)                              | Absurd illustrations that make sense.                                                                                                      |  
-| 8      | [On Fire Illustrations](https://onfire.craftwork.design/)                   | High-quality interface assets for designers and startup creatives.                                                                         |  
-| 9      | [Illustration Kit](https://illustrationkit.com/)                            | Beautiful free illustrations for personal & commercial projects. No attribution is required.                                               |  
-| 10     | [Delesign Illustrations](https://delesign.com/free-designs/graphics/)       | Royalty-free designs for your website, social media, blog, email newsletters, and more.                                                    |  
+| Sr. No | Name                                                                         | Description                                                                                                                                |  
+|--------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|  
+| 1      | [UI8](https://ui8.net/)                                                      | High-quality design assets, UI kits, and templates.                                                                                        |  
+| 2      | [Icons8](https://icons8.com/)                                                | A library of icons, illustrations, and photos.                                                                                             | 
+| 3      | [Open Doodles](https://opendoodles.com/)                                     | A Free Set of Open-Source Illustrations!                                                                                                   |  
+| 4      | [unDraw](https://undraw.co/)                                                 | Open-source illustrations for any idea you can imagine and create.                                                                         |
+| 5      | [Storyset](https://storyset.com/)                                            | Awesome free customizable illustrations for your next project.                                                                             |  
+| 6      | [Illustrations](https://illlustrations.co/)                                  | You can download all illustrations completely free and use these to design awesome - landing pages, mobile apps, or presentations.         |  
+| 7      | [Absurd Illustrations](https://absurd.design/)                               | Absurd illustrations that make sense.                                                                                                      |  
+| 8      | [On Fire Illustrations](https://onfire.craftwork.design/)                    | High-quality interface assets for designers and startup creatives.                                                                         |  
+| 9      | [Illustration Kit](https://illustrationkit.com/)                             | Beautiful free illustrations for personal & commercial projects. No attribution is required.                                               |  
+| 10     | [Delesign Illustrations](https://delesign.com/free-designs/graphics/)        | Royalty-free designs for your website, social media, blog, email newsletters, and more.                                                    |  
 
 ---
 
