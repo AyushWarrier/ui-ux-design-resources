@@ -93,6 +93,7 @@ Figma and design tool plugins that enhance your workflow.
 | 15     | [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi)                                                                        | Transform your Figma designs with free Lummi images.                      |
 | 16     | [Mockup Plugin](https://www.figma.com/community/plugin/817043359134136295/mockup-plugin-devices-mockups-print-mockups-ai-mockups)                | Simple and Easy Mockup for your Figma Designs.                            |
 | 17     | [SPELLL](https://www.figma.com/community/plugin/754026612866636376/spelll-spelling-grammar-checking-for-figma-figjam)                            | Spell Checking for Figma & FigJam.                                        |
+| 18     | [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/feather-icons)                                                         | Open Source Library for Icons in Figma.                                   |
 
 ---
 
