@@ -95,6 +95,7 @@ Figma and design tool plugins that enhance your workflow.
 | 17     | [SPELLL](https://www.figma.com/community/plugin/754026612866636376/spelll-spelling-grammar-checking-for-figma-figjam)                            | Spell Checking for Figma & FigJam.                                        |
 | 18     | [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/feather-icons)                                                         | Open Source Library for Icons in Figma.                                   |
 | 19     | [Heroicons](https://www.figma.com/community/plugin/1146185727520661419/heroicons-icon-set-by-iconduck)                                           | Heroicons is an open-source icon library of 452 icons.                    |
+| 20     | [Foundation](https://www.figma.com/community/plugin/1024452006068794933/foundation-color-generator)                                              | Create Color Palettes based on great Design Systems.                      |
 
 ---
 
