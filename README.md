@@ -36,7 +36,8 @@ Collections of reusable design components, UI kits, and assets.
 | 7      | [Absurd Illustrations](https://absurd.design/)                               | Absurd illustrations that make sense.                                                                                                      |  
 | 8      | [On Fire Illustrations](https://onfire.craftwork.design/)                    | High-quality interface assets for designers and startup creatives.                                                                         |  
 | 9      | [Illustration Kit](https://illustrationkit.com/)                             | Beautiful free illustrations for personal & commercial projects. No attribution is required.                                               |  
-| 10     | [Delesign Illustrations](https://delesign.com/free-designs/graphics/)        | Royalty-free designs for your website, social media, blog, email newsletters, and more.                                                    |  
+| 10     | [Delesign Illustrations](https://delesign.com/free-designs/graphics/)        | Royalty-free designs for your website, social media, blog, email newsletters, and more.                                                    |
+| 11     | [Spectrum](https://spectrums.framer.website/)                                | Free Vector Shapes available for you to download and use in your designs (Made by Sachin Dhyani).                                          |
 
 ---
 
