@@ -43,7 +43,7 @@ Collections of reusable design components, UI kits, and assets.
 
 ## 🌐 Websites for Inspiration
 
-Platforms to discover UI/UX trends, patterns, and inspiration.
+Platforms to discover UI/UX trends, patterns, and inspiration. 
 
 | Sr. No | Website Name                                                                    | Description                                                                                                              |
 |--------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
