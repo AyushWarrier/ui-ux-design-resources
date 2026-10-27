@@ -69,6 +69,7 @@ Platforms to discover UI/UX trends, patterns, and inspiration.
 | 20     | [Supahero](https://www.supahero.io/)                                            | The best collection of website hero sections.                                                                            |
 | 21     | [Pageflows](https://pageflows.com/)                                             | Explore real-world user flows and design patterns from leading apps and websites.                                        |
 | 22     | [Websitevice](https://websitevice.com/)                                         | Discover website inspirations with smart filters that help you quickly find the styles and ideas you're searching for.   |
+| 23     | [Design Details](https://designdetails.io/)                                | Explore real website designs with full-page captures, motion recordings, typography, and color breakdowns.              |
 
 ---
 
