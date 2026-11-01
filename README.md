@@ -126,6 +126,7 @@ Informative articles, blogs, and guides on design best practices.
 | 3      | [UXness](https://www.uxness.in/)                                              | Discover UX, visual, and product design insights and inspiration with UXness.                            |  
 | 4      | [Nielsen Norman Group](https://www.nngroup.com/articles/)                     | Research-based articles about user experience (UX), interaction design, web usability, and user testing. |  
 | 5      | [Design - Pttrns](https://www.pttrns.com/category/design/)                    | Find the latest articles on topics like Current Designs Trends.                                          |  
+| 6      | [Aeneia](https://blog.aeneia.pl/dostepnosc-strony-firmowej)                   | A Polish-first guide covering key aspects related to WCAG Guidelines.                                    |  
 
 ---
 
