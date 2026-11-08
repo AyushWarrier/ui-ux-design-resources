@@ -139,6 +139,7 @@ Resources for choosing colors, fonts, and maintaining typography consistency.
 | 1      | [Coolors](https://coolors.co/)                       | Generate, explore, and save color palettes.              |  
 | 2      | [Color Hunt](https://colorhunt.co/)                  | Explore popular/trending color palettes for your designs |  
 | 3      | [Google Fonts](https://fonts.google.com/)            | A library of free licensed fonts.                        |  
+| 4      | [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) | Compare relative luminance, HSP brightness, luma, and two-color contrast. |
 
 ---
 
