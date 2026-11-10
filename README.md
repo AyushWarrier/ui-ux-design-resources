@@ -139,6 +139,7 @@ Resources for choosing colors, fonts, and maintaining typography consistency.
 | 1      | [Coolors](https://coolors.co/)                       | Generate, explore, and save color palettes.              |  
 | 2      | [Color Hunt](https://colorhunt.co/)                  | Explore popular/trending color palettes for your designs |  
 | 3      | [Google Fonts](https://fonts.google.com/)            | A library of free licensed fonts.                        |  
+| 4      | [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Free script-header and body-font pairing guidance; paid fonts and workbooks are separate. |
 
 ---
 
