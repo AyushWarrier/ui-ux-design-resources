@@ -140,6 +140,7 @@ Resources for choosing colors, fonts, and maintaining typography consistency.
 | 2      | [Color Hunt](https://colorhunt.co/)                  | Explore popular/trending color palettes for your designs |  
 | 3      | [Google Fonts](https://fonts.google.com/)            | A library of free licensed fonts.                        |  
 | 4      | [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Free script-header and body-font pairing guidance; paid fonts and workbooks are separate. |
+| 5      | [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) | Adds numeric color-brightness comparison alongside the existing palette and font resources. |
 
 ---
 
