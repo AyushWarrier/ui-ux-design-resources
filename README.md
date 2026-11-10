@@ -174,10 +174,11 @@ YouTube channels covering UI/UX tips, tutorials, and industry insights.
 
 Design tools that boost creativity and efficiency.
 
-| Sr. No | Name                                      | Description                                                         |  
-|--------|-------------------------------------------|---------------------------------------------------------------------|  
-| 1      | [Miro](https://miro.com/)                 | Online collaborative whiteboard for brainstorming and design.       |  
-| 2      | [Whimsical](https://whimsical.com/)       | Mind maps, flowcharts, and wireframes in one tool.                  |  
+| Sr. No | Name                                                                            | Description                                                         |  
+|--------|---------------------------------------------------------------------------------|---------------------------------------------------------------------|  
+| 1      | [Miro](https://miro.com/)                                                       | Online collaborative whiteboard for brainstorming and design.       |  
+| 2      | [Whimsical](https://whimsical.com/)                                             | Mind maps, flowcharts, and wireframes in one tool.                  |  
+| 3      | [ASCII Flowchart Generator](https://ascii-images.com/ascii-flowchart-generator) | Free browser tool for 1–8-step ASCII flowcharts.                    |
 
 ---
 
